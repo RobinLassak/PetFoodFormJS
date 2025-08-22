@@ -1,0 +1,1 @@
+Toto je prvni deploy test na endoru.
